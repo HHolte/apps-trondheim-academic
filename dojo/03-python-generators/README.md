@@ -17,11 +17,11 @@ Demo working in the python REPL.
    - Use file `genexp.py`
    - Read each line of a file and print it
    - Gather all lines from file in a list using a list comprehension
-   - Filter the lines if they match a pattern (e.g. 'Traceback' or 'WARN')
+   - Filter the lines if they match a pattern (e.g. 'disconnect' or 'user')
    - Use a generator expression to print the line if it matches a pattern
 2. Generator function:
    - Use file `genfunc.py`
-   - Chain all log files together using a generator function
+   - Remove month and date from the log lines using a generator function
    - Do the filtering stuff from above
 3. Generator class:
    - Same task as generator functions

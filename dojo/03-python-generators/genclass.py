@@ -1,8 +1,4 @@
-from pathlib import Path
-
-logfile_dir = Path('C:/Appl/log')
-logfile = logfile_dir / 'autotrader_child_0.log.2023-08-30T00_18_56.092811'
-logfile = logfile_dir / 'thousand.log'
+logfile = './OpenSSH_2K.log'
 
 
 def main():
